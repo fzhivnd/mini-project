@@ -1,5 +1,5 @@
 # Mini Project 1
-## API to fecth Covid Data and store it to MongoDB
+## API to get Covid Data and store it to MongoDB
 ### This API is get lates Covid data from each province and store it based on it province
 
 ## API Documentation
